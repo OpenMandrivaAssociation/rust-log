@@ -11,7 +11,7 @@
 
 Name:           rust-%{crate}
 Version:        0.4.14
-Release:        1
+Release:        2
 Summary:        Lightweight logging facade for Rust
 
 # Upstream license specification: MIT OR Apache-2.0
