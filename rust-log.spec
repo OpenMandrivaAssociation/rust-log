@@ -10,8 +10,8 @@
 %global crate log
 
 Name:           rust-%{crate}
-Version:        0.4.14
-Release:        2
+Version:        0.4.33
+Release:        1
 Summary:        Lightweight logging facade for Rust
 
 # Upstream license specification: MIT OR Apache-2.0
